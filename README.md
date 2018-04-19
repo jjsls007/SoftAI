@@ -1,0 +1,2 @@
+# SoftAI
+soft AI project
